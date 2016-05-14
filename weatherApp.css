@@ -210,6 +210,7 @@ html {
     border: 0px;
     /*padding: 0px; */
     padding-left: 234px;
+    
 }
 
 #rightFooter {
@@ -220,7 +221,7 @@ html {
     color: #f89a1f;
     font-size: 13px;
     
-    padding-left: 89px;
+    padding-left: 100px;
     padding-right: 390px;
     
     text-align: left;
