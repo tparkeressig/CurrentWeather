@@ -238,7 +238,8 @@ html {
     bottom: 0px;
     z-index: 20;
     overflow: auto;
-   
+    width: 100%;
+    height: auto;
   
 }
 
