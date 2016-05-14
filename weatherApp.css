@@ -228,14 +228,17 @@ html {
     margin-bottom: 0px;
     
     text-align: left;
+    
       
     background-color: white;
     border-top-color: #f89a1f;
     
-    position: absolute;
+    position: fixed;
+    background: inherit;
     bottom: 0px;
     z-index: 20;
     overflow: auto;
+   
   
 }
 
