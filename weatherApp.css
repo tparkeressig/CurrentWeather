@@ -7,8 +7,12 @@ html, body {
 }
 
 html {
+    /*
     min-width: 100%;
     min-height: auto;
+    */
+    min-width: 300px;
+    min-height: inherit;
     max-width: 100%;
     max-height: auto;
     width: 100%;
