@@ -83,13 +83,10 @@ html {
     text-align: right;
     margin-top: 200px;
     margin-bottom: 0px;
-    padding-right: 200px;
+    padding-right: 70px;
     font-size: 30px;
     font-family: 'Open Sans', sans-serif;
     color: white;
-    
-    width: 100%;
-    height: auto;
 }
 
 #zipcity {
@@ -97,13 +94,10 @@ html {
    /* margin-top: 200px; */
     margin-top: 0px;
     margin-left: 100px;
-    padding-right: 200px;
+    padding-right: 70px;
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
     color: white;
-    
-    width: 100%;
-    height: auto;
 }
 
 #right_col {
