@@ -7,9 +7,10 @@ html, body {
 }
 
 html {
-    min-width: 100px;
+    min-width: 100%;
     min-height: auto;
-    
+    max-width: 100%;
+    max-height: auto;
 }
 
 
@@ -222,7 +223,7 @@ html {
     font-size: 13px;
     
     padding-left: 89px;
-    padding-right: 370px;
+    padding-right: 380px;
     margin-right: 0px;
     margin-bottom: 0px;
     
