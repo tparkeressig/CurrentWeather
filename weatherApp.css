@@ -207,6 +207,11 @@ html {
     height: auto;
 }
 
+#leftFooter p {
+     width: 100%;
+    height: auto;
+}
+
 
 #leftFooter img {
     position: absolute;
