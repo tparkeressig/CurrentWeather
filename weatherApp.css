@@ -203,8 +203,8 @@ html {
     position: fixed;
     bottom: 0px;
     
-    overflow: auto;
-    background: inherit;
+    overflow: inherit;
+   
     width: 100%;
     height: auto;
     
