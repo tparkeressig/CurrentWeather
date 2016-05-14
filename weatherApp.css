@@ -229,7 +229,7 @@ html {
     background-color: white;
     border-top-color: #f89a1f;
     
-    position: fixed;
+    position: absolute;
     bottom: 0px;
     z-index: 20;
     overflow: auto;
